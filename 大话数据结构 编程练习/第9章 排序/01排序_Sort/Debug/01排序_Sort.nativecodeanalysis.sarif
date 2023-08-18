@@ -1,0 +1,121 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C6262",
+          "message": {
+            "text": "函数使用堆叠的 \"40012\" 字节。请考虑将一些数据移动到堆。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/CodeProjects/数据结构与算法/大话数据结构 编程练习/第9章 排序/01排序_Sort/01排序_Sort.c"
+                },
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 6,
+                  "endLine": 34,
+                  "endColumn": 6
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "print",
+                  "decoratedName": "print",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6262",
+          "message": {
+            "text": "函数使用堆叠的 \"40024\" 字节。请考虑将一些数据移动到堆。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/CodeProjects/数据结构与算法/大话数据结构 编程练习/第9章 排序/01排序_Sort/01排序_Sort.c"
+                },
+                "region": {
+                  "startLine": 233,
+                  "startColumn": 6,
+                  "endLine": 233,
+                  "endColumn": 6
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "MSort",
+                  "decoratedName": "MSort",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C6262",
+          "message": {
+            "text": "函数使用堆叠的 \"480136\" 字节。请考虑将一些数据移动到堆。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/CodeProjects/数据结构与算法/大话数据结构 编程练习/第9章 排序/01排序_Sort/01排序_Sort.c"
+                },
+                "region": {
+                  "startLine": 419,
+                  "startColumn": 5,
+                  "endLine": 419,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "main",
+                  "decoratedName": "main",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31629.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///D:/CodeProjects/数据结构与算法/大话数据结构 编程练习/第9章 排序/01排序_Sort/01排序_Sort.c"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "a8c4045e9dc4d603f1a914971ffb08740e26ac4993ff0e442c9df12d00a21a9f"
+          }
+        }
+      ]
+    }
+  ]
+}

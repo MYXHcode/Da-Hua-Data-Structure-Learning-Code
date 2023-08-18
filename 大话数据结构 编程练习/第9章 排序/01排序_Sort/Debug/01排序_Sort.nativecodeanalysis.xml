@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第9章 排序\01排序_Sort\</FILEPATH>
+      <FILENAME>01排序_Sort.c</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "40012" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>print</FUNCTION>
+    <DECORATED>print</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第9章 排序\01排序_Sort\</FILEPATH>
+      <FILENAME>01排序_Sort.c</FILENAME>
+      <LINE>233</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "40024" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>MSort</FUNCTION>
+    <DECORATED>MSort</DECORATED>
+    <FUNCLINE>233</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第9章 排序\01排序_Sort\</FILEPATH>
+      <FILENAME>01排序_Sort.c</FILENAME>
+      <LINE>419</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "480136" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>419</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

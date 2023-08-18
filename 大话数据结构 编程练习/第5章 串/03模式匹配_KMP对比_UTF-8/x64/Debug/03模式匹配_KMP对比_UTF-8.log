@@ -1,0 +1,5 @@
+﻿  03模式匹配_KMP对比_UTF-8.c
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第5章 串\03模式匹配_KMP对比_UTF-8\03模式匹配_KMP对比_UTF-8.c(26,16): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第5章 串\03模式匹配_KMP对比_UTF-8\03模式匹配_KMP对比_UTF-8.c(198,14): warning C4101: “p”: 未引用的局部变量
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第5章 串\03模式匹配_KMP对比_UTF-8\03模式匹配_KMP对比_UTF-8.c(198,9): warning C4101: “i”: 未引用的局部变量
+  03模式匹配_KMP对比_UTF-8.vcxproj -> D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第5章 串\03模式匹配_KMP对比_UTF-8\x64\Debug\03模式匹配_KMP对比_UTF-8.exe

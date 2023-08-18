@@ -1,0 +1,12 @@
+﻿  06链队列_LinkQueue.c
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(193,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“QueuePtr”
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(193,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "QueuePtr" 的参数 1 冲突
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(193,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“QueuePtr”
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(193,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "QueuePtr" 的参数 2 冲突
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(193,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“QNode *”
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(193,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "QNode *" 的参数 3 冲突
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(196,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“QueuePtr”
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(196,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "QueuePtr" 的参数 1 冲突
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(196,12): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“QueuePtr”
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\06链队列_LinkQueue.c(196,12): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "QueuePtr" 的参数 2 冲突
+  06链队列_LinkQueue.vcxproj -> D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第4章 栈与队列\06链队列_LinkQueue\x64\Debug\06链队列_LinkQueue.exe

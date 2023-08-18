@@ -1,0 +1,3 @@
+﻿  02模式匹配_KMP.c
+D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第5章 串\02模式匹配_KMP\02模式匹配_KMP.c(27,16): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+  02模式匹配_KMP.vcxproj -> D:\CodeProjects\数据结构与算法\大话数据结构 编程练习\第5章 串\02模式匹配_KMP\x64\Debug\02模式匹配_KMP.exe
